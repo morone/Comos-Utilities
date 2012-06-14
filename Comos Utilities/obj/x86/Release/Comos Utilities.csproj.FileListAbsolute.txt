@@ -1,0 +1,16 @@
+C:\Documents and Settings\adamo.nunes\Configurações locais\Dados de aplicativos\Temporary Projects\Comos Utilities\bin\Release\Comos Utilities.exe
+C:\Documents and Settings\adamo.nunes\Configurações locais\Dados de aplicativos\Temporary Projects\Comos Utilities\bin\Release\Comos Utilities.pdb
+C:\Documents and Settings\adamo.nunes\Configurações locais\Dados de aplicativos\Temporary Projects\Comos Utilities\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\adamo.nunes\Configurações locais\Dados de aplicativos\Temporary Projects\Comos Utilities\obj\x86\Release\Comos_Utilities.frmMain.resources
+C:\Documents and Settings\adamo.nunes\Configurações locais\Dados de aplicativos\Temporary Projects\Comos Utilities\obj\x86\Release\Comos_Utilities.Properties.Resources.resources
+C:\Documents and Settings\adamo.nunes\Configurações locais\Dados de aplicativos\Temporary Projects\Comos Utilities\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\adamo.nunes\Configurações locais\Dados de aplicativos\Temporary Projects\Comos Utilities\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\adamo.nunes\Configurações locais\Dados de aplicativos\Temporary Projects\Comos Utilities\obj\x86\Release\Comos Utilities.exe
+C:\Documents and Settings\adamo.nunes\Configurações locais\Dados de aplicativos\Temporary Projects\Comos Utilities\obj\x86\Release\Comos Utilities.pdb
+C:\Documents and Settings\adamo.nunes\Configurações locais\Dados de aplicativos\Temporary Projects\Comos Utilities\bin\Release\Comos Utilities.exe.manifest
+C:\Documents and Settings\adamo.nunes\Configurações locais\Dados de aplicativos\Temporary Projects\Comos Utilities\bin\Release\Comos Utilities.application
+C:\Documents and Settings\adamo.nunes\Configurações locais\Dados de aplicativos\Temporary Projects\Comos Utilities\obj\x86\Release\Comos Utilities.TrustInfo.xml
+C:\Documents and Settings\adamo.nunes\Configurações locais\Dados de aplicativos\Temporary Projects\Comos Utilities\obj\x86\Release\Comos Utilities.exe.manifest
+C:\Documents and Settings\adamo.nunes\Configurações locais\Dados de aplicativos\Temporary Projects\Comos Utilities\obj\x86\Release\Comos Utilities.application
+C:\Documents and Settings\adamo.nunes\Meus documentos\Visual Studio 2010\Projects\Comos Utilities\Comos Utilities\obj\x86\Release\Comos Utilities.exe
+C:\Documents and Settings\adamo.nunes\Meus documentos\Visual Studio 2010\Projects\Comos Utilities\Comos Utilities\obj\x86\Release\Comos Utilities.pdb

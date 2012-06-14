@@ -1,0 +1,23 @@
+C:\Documents and Settings\adamo.nunes\Configurações locais\Dados de aplicativos\Temporary Projects\Comos Utilities\bin\Debug\Comos Utilities.exe
+C:\Documents and Settings\adamo.nunes\Configurações locais\Dados de aplicativos\Temporary Projects\Comos Utilities\bin\Debug\Comos Utilities.pdb
+C:\Documents and Settings\adamo.nunes\Configurações locais\Dados de aplicativos\Temporary Projects\Comos Utilities\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\adamo.nunes\Configurações locais\Dados de aplicativos\Temporary Projects\Comos Utilities\obj\x86\Debug\Comos_Utilities.frmMain.resources
+C:\Documents and Settings\adamo.nunes\Configurações locais\Dados de aplicativos\Temporary Projects\Comos Utilities\obj\x86\Debug\Comos_Utilities.Properties.Resources.resources
+C:\Documents and Settings\adamo.nunes\Configurações locais\Dados de aplicativos\Temporary Projects\Comos Utilities\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\adamo.nunes\Configurações locais\Dados de aplicativos\Temporary Projects\Comos Utilities\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\adamo.nunes\Configurações locais\Dados de aplicativos\Temporary Projects\Comos Utilities\obj\x86\Debug\Comos Utilities.exe
+C:\Documents and Settings\adamo.nunes\Configurações locais\Dados de aplicativos\Temporary Projects\Comos Utilities\obj\x86\Debug\Comos Utilities.pdb
+C:\Documents and Settings\adamo.nunes\Meus documentos\Visual Studio 2010\Projects\Comos Utilities\Comos Utilities\bin\Debug\Comos Utilities.exe.manifest
+C:\Documents and Settings\adamo.nunes\Meus documentos\Visual Studio 2010\Projects\Comos Utilities\Comos Utilities\bin\Debug\Comos Utilities.application
+C:\Documents and Settings\adamo.nunes\Meus documentos\Visual Studio 2010\Projects\Comos Utilities\Comos Utilities\bin\Debug\Comos Utilities.exe
+C:\Documents and Settings\adamo.nunes\Meus documentos\Visual Studio 2010\Projects\Comos Utilities\Comos Utilities\bin\Debug\Comos Utilities.pdb
+C:\Documents and Settings\adamo.nunes\Meus documentos\Visual Studio 2010\Projects\Comos Utilities\Comos Utilities\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\adamo.nunes\Meus documentos\Visual Studio 2010\Projects\Comos Utilities\Comos Utilities\obj\x86\Debug\Comos_Utilities.frmMain.resources
+C:\Documents and Settings\adamo.nunes\Meus documentos\Visual Studio 2010\Projects\Comos Utilities\Comos Utilities\obj\x86\Debug\Comos_Utilities.Properties.Resources.resources
+C:\Documents and Settings\adamo.nunes\Meus documentos\Visual Studio 2010\Projects\Comos Utilities\Comos Utilities\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\adamo.nunes\Meus documentos\Visual Studio 2010\Projects\Comos Utilities\Comos Utilities\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\adamo.nunes\Meus documentos\Visual Studio 2010\Projects\Comos Utilities\Comos Utilities\obj\x86\Debug\Comos Utilities.TrustInfo.xml
+C:\Documents and Settings\adamo.nunes\Meus documentos\Visual Studio 2010\Projects\Comos Utilities\Comos Utilities\obj\x86\Debug\Comos Utilities.exe.manifest
+C:\Documents and Settings\adamo.nunes\Meus documentos\Visual Studio 2010\Projects\Comos Utilities\Comos Utilities\obj\x86\Debug\Comos Utilities.application
+C:\Documents and Settings\adamo.nunes\Meus documentos\Visual Studio 2010\Projects\Comos Utilities\Comos Utilities\obj\x86\Debug\Comos Utilities.exe
+C:\Documents and Settings\adamo.nunes\Meus documentos\Visual Studio 2010\Projects\Comos Utilities\Comos Utilities\obj\x86\Debug\Comos Utilities.pdb
