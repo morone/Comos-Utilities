@@ -67,6 +67,7 @@
             this.txtFileName.Name = "txtFileName";
             this.txtFileName.Size = new System.Drawing.Size(408, 20);
             this.txtFileName.TabIndex = 2;
+            this.txtFileName.Enter += new System.EventHandler(this.txtFileName_Enter);
             // 
             // radioCopia
             // 
@@ -113,6 +114,7 @@
             this.MinimumSize = new System.Drawing.Size(460, 218);
             this.Name = "frmMain";
             this.Text = "Comos Utilities";
+            this.Load += new System.EventHandler(this.frmMain_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
